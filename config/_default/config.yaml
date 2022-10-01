@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Aisha Alaagib # Website name
-baseURL: 'https://shiny-genie-a82700.netlify.app/' # Website URL
+baseURL: 'https://aishaalaagib.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
