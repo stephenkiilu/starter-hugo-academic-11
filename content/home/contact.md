@@ -25,25 +25,25 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: aalaagib@aimsammi.org
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    street: 450 S
+    city: Khartoum
+    region: K
     postcode: '94305'
-    country: United States
-    country_code: US
-  appointment_url: 'https://calendly.com'
+    country: Sudan
+    country_code: SUD
+ 
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
+      link: 'https://twitter.com/AishaAlaagib'
+    - icon: linkedin
       icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Linkedin
+      link: 'https://www.linkedin.com/in/aishaalaagib'
 
 design:
   columns: '2'
