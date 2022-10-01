@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Aisha Alaagib
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Aisha
+last_name: Alaagib
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
