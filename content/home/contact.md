@@ -41,7 +41,7 @@ content:
       name: DM Me
       link: 'https://twitter.com/AishaAlaagib'
     - icon: linkedin
-      icon_pack: fas
+      icon_pack: fab
       name: Linkedin
       link: 'https://www.linkedin.com/in/aishaalaagib'
 
