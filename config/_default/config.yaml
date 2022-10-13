@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Aisha Alaagib # Website name
-baseURL: 'https://aishaalaagib.netlify.app/' # Website URL
+baseURL: 'aishaalaagib.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
@@ -64,9 +64,9 @@ related:
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 80
     - name: categories
-      weight: 70
+      weight: 50
 security:
   _merge: deep
 sitemap:
