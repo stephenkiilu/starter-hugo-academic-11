@@ -20,11 +20,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Representation Learning
-  - Trustworthy machine learning
-  - NLP
-  - Computer Vision
+#interests:
+ # - Representation Learning
+  #- Trustworthy machine learning
+  #- NLP
+  #- Computer Vision
 # News to show in About widget
 news:
   - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
