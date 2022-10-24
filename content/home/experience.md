@@ -77,5 +77,5 @@ experience:
         * Advised by Prof. Sanja Fidler.
 
 design:
-  columns: '1'
+  columns: '2'
 ---
