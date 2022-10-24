@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.cv4gc.org/cv4a2020/
     date_end: ''
-    date_start: '2020'
+    date_start: '2020-04-26'
     description: ''
     organization: ICLR 2020 Workshop on Computer Vision for Agriculture (CV4A)
     organization_url: https://www.cv4gc.org/cv4a2020/
