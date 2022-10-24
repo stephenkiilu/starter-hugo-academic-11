@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Montreal
     date_start: '2021-10-04'
-    date_end: '2022-30-04'
+    date_end: '2022-04-30'
     description: |2-
         Responsibilities include:
         
@@ -46,7 +46,7 @@ experience:
         Responsibilities include:
         
         * orking on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
-one or it is a fake fair model (paper accepted @ Neurips 2022).
+          one or it is a fake fair model (paper accepted @ Neurips 2022).
         * Advised by Prof. Nicolas Papernot.
 
 design:
