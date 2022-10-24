@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: aalaagib@aimsammi.org
-  phone: 888 888 88 88
+  phone: 
   address:
     street: 450 S
     city: Khartoum
