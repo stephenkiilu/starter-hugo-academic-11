@@ -45,7 +45,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Working on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
+        * orking on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
 one or it is a fake fair model (paper accepted @ Neurips 2022).
         * Advised by Prof. Nicolas Papernot.
 
