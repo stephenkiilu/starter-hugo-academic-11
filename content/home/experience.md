@@ -26,7 +26,7 @@ experience:
     company: Mila-Quebec AI Institute
     company_url: 'https://mila.quebec/en/'
     company_logo: org-gc
-    location: Montreal
+    location: Montreal, Canada
     date_start: '2021-10-04'
     date_end: '2022-04-30'
     description: |2-
@@ -39,7 +39,7 @@ experience:
     company: Vector Institute
     company_url: 'https://vectorinstitute.ai/'
     company_logo: org-x
-    location: Toronto
+    location: Toronto, Canada
     date_start: '2021-05-04'
     date_end: '2021-09-04'
     description: |2-
