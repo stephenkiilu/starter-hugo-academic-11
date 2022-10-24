@@ -14,7 +14,7 @@ role: Research Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Mila ai
-    url: [https://www.stanford.edu/](https://mila.quebec/en/)
+    url: https://mila.quebec/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -49,13 +49,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: [https://twitter.com/GeorgeCushen](https://twitter.com/@AishaAlaagib)
+    link: https://twitter.com/@AishaAlaagib
   - icon: github
     icon_pack: fab
-    link: [https://github.com/gcushen](https://github.com/AishaAlaagib)
+    link: https://github.com/AishaAlaagib
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/aisha-alaagib-26582a151/)
+    link: https://www.linkedin.com/in/aisha-alaagib-26582a151/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
