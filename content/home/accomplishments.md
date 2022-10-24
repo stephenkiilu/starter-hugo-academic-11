@@ -23,13 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.cv4gc.org/cv4a2020/
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: ICLR 2020 Workshop on
+Computer Vision for Agriculture (CV4A)
+    organization_url: https://www.cv4gc.org/cv4a2020/
+    title: The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease.
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
