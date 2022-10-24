@@ -29,7 +29,7 @@ item:
     description: ''
     organization: ICLR 2020 Workshop on Computer Vision for Agriculture (CV4A)
     organization_url: https://www.cv4gc.org/cv4a2020/
-    title: The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop  Disease.
+    title: 'The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop  Disease'
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
