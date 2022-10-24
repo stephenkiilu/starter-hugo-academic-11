@@ -49,6 +49,19 @@ experience:
           one or it is a fake fair model (paper accepted @ Neurips 2022).
         * Advised by Prof. Nicolas Papernot.
 
+  - title: Research Intern
+    company: African Master in Machine Intelligence (AMMI-Senegal)
+    company_url: 'https://aimsammi.org/'
+    company_logo: org-x
+    location: Senegal
+    date_start: '2020-01-01'
+    date_end: '2021-11-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching Machine Learning for a class of about 40 students and engaged in different groups of research in a variety of Machine Learning topics.
+        * Advised by Moustapha Cisse.
+
 design:
   columns: '2'
 ---
