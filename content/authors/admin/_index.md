@@ -71,7 +71,11 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was a research intern at Mila Quebec AI Institute, Montrea in the last Fall of 2022. Supervised by Prof. Golnoosh Farnadi and Dr. Ulrich Aivodji. I hold two M.Sc. degrees in Mathematical Sciences and Machine Intelligence from AIMS Cameroon and AIMS Rwanda respectively (2017-2019) and a bachelor’s degree in Mathematics and Computer Science from the University of Khartoum, Sudan.
+
+My research include deeplearning, representatin lerning, robustness, fairness and interpretability. I am also broadly interested in unsupervised representation learning for different modalities (text, vision) and finding good disentangled representations which are generally important for good performance on some downstream tasks.
+
+In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and traveling. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
