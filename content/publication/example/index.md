@@ -44,10 +44,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
- Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: http://example.org
+Custom links (uncomment lines below)
+links:
+- name: Custom Link
+  url: http://example.org
 
 url_pdf: ''
 url_code: ''
