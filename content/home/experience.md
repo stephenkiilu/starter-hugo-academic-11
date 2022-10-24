@@ -31,7 +31,7 @@ experience:
     date_end: '2022-30-04'
     description: |2-
         Responsibilities include:
-          
+        
         * Studying the tensions between fairness and the right to erasure in the context of machine learning (i.e machine unlearning).
         * Advised by Prof. Golnoosh Farnadi and Dr. Ulrich Aivodji.
 
@@ -42,10 +42,12 @@ experience:
     location: Toronto, Canada
     date_start: '2021-05-04'
     date_end: '2021-09-04'
-    description: 
-      * Working on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
+    description: |2-
+        Responsibilities include:
+        
+        * Working on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
 one or it is a fake fair model (paper accepted @ Neurips 2022).
-      * Advised by Prof. Nicolas Papernot.
+        * Advised by Prof. Nicolas Papernot.
 
 design:
   columns: '2'
