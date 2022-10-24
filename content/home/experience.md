@@ -23,27 +23,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: Mila ai
+    company: Mila-Quebec AI Institute
     company_url: 'https://mila.quebec/en/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Montreal, Canada
+    date_start: '2021-10-04'
+    date_end: '2022-30-04'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+          
+        * Studying the tensions between fairness and the right to erasure in the context of machine learning (i.e machine unlearning).
+        * Advised by Prof. Golnoosh Farnadi and Dr. Ulrich Aivodji.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Intern
+    company: Vector Institute
+    company_url: 'https://vectorinstitute.ai/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Toronto, Canada
+    date_start: '2021-05-04'
+    date_end: '2021-09-04'
+    description: 
+      * Working on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
+one or it is a fake fair model (paper accepted @ Neurips 2022).
+      * Advised by Prof. Nicolas Papernot.
 
 design:
   columns: '2'
