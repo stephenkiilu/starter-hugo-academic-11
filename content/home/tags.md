@@ -6,6 +6,7 @@ headless: true
 weight: 130
 
 title: News
+# News to show in About widget
 content:
 
   - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
