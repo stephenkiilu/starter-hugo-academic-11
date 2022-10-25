@@ -58,7 +58,7 @@ url_source: ''
 url_video: ''
 
 
----
+
 
 
 # Authors
@@ -101,7 +101,7 @@ abstract: The use of black-box models (e.g., deep neural networks) in high-stake
 #tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
  # Custom links (uncomment lines below)
  # links:
