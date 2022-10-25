@@ -10,7 +10,8 @@ weight: 130
 
 title: News
 subtitle:
-
+  - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
+  - Serve as a program committee for the Deep Learning Indaba, Aug, 2022
 content:
   # Automatically link email and phone or display as text?
   autolink: true
@@ -34,17 +35,6 @@ content:
     postcode: '94305'
     country: Sudan
     country_code: SUD
- 
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/AishaAlaagib'
-    - icon: linkedin
-      icon_pack: fab
-      name: Linkedin
-      link: 'https://www.linkedin.com/in/aishaalaagib'
-
 design:
   columns: '2'
 ---
