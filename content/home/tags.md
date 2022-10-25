@@ -1,19 +1,50 @@
 ---
-# An instance of the Tag Cloud widget.
-# Docs: https://wowchemy.com/docs/page-builder/
-widget: tag_cloud
+# An instance of the Contact widget.
+widget: contact
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 130
 
-title: Popular Topics
-subtitle: ''
+title: News
+subtitle:
 
-# News to show in About widget
-news:
-  - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
-  - Serve as a program committee for the Deep Learning Indaba, Aug, 2022
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  # form:
+   # provider: netlify
+   # formspree:
+   #   id:
+   # netlify:
+   #  # Enable CAPTCHA challenge to reduce spam?
+   #  captcha: false
+
+  # Contact details (edit or remove options as required)
+  email: aalaagib@aimsammi.org
+  phone: 
+  address:
+    street: 450 S
+    city: Khartoum
+    region: K
+    postcode: '94305'
+    country: Sudan
+    country_code: SUD
+ 
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/AishaAlaagib'
+    - icon: linkedin
+      icon_pack: fab
+      name: Linkedin
+      link: 'https://www.linkedin.com/in/aishaalaagib'
+
+design:
+  columns: '2'
 ---
