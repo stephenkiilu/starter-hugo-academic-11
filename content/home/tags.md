@@ -3,16 +3,16 @@
 headless: false
 
 # Order that this section appears on the page.
-weight: 0
+weight: 70
 
 
 #design:
   #columns: '2'
 ---
-<!-- News:
+News:
 
-  - Aug, 2022: Co-organize [TrustAI Workshop]('https://trustaideepindaba.github.io/') at Deep Learning Indaba.
-  - Aug, 2022: Serve as a program committee for the [Deep Learning Indaba]('https://deeplearningindaba.com/2022/indaba/organisers/').
-  - Jun, 2021: CO-Organizer of Women in Machine Learning and Data Science Khartoum Chapter[(WIMLDS-Khartoum)]('http://wimlds.org/about-the-khartoum-team/').
-  - Nov, 2020: Machine Learning Consultant at Central Bureau of Statistics (CBS) , Train employers of CBS on ML basics and how to us ML to improve business performance.
-  - Dec, 2019: Volunteer at Women in Machine Learning workshop(WiML) , NeurIPS 2019.  -->
+  - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
+  - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indaba 2019. Nairobi, Kenya
+  - Winning the cassava challenge which is part of kaggle competitions and travel award to CVPR 2019.
+  - AMMI Scholarship , Full scholarship for the African Master in Machine Intelligence (AMMI). 2018
+  - AIMS Scholarship , Master card foundation scholarship for one year master program at AIMS. 2017.
