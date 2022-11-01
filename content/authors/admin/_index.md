@@ -17,7 +17,7 @@ organizations:
     url: https://mila.quebec/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include trustworthy machine learning, epresentatin lerning, NLP.
 
 # Interests to show in About widget
 interests:
@@ -25,10 +25,7 @@ interests:
   - Trustworthy machine learning
   - NLP
   - Computer Vision
-# News to show in About widget
-news:
-  - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
-  - Serve as a program committee for the Deep Learning Indaba, Aug, 2022
+
 # Education to show in About widget
 education:
   courses:
