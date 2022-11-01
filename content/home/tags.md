@@ -1,9 +1,9 @@
 ---
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 15
 
 title: News
 # News to show in About widget
