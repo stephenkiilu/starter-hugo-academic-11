@@ -63,9 +63,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: https://drive.google.com/file/d/12tgMxJuis2yCZAWr_Yt2OhMncqJnkehL/view
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/12tgMxJuis2yCZAWr_Yt2OhMncqJnkehL/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'aalaagib@aimsammi.org'
