@@ -82,3 +82,11 @@ In other news, I am very passionate about ML community, teaching, learning and r
 
 
 {{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/12tgMxJuis2yCZAWr_Yt2OhMncqJnkehL/view').
+
+News:
+
+  - Aug, 2022: Co-organize [TrustAI Workshop]('https://trustaideepindaba.github.io/') at Deep Learning Indaba.
+  - Aug, 2022: Serve as a program committee for the [Deep Learning Indaba]('https://deeplearningindaba.com/2022/indaba/organisers/').
+  - Jun, 2021: CO-Organizer of Women in Machine Learning and Data Science Khartoum Chapter[(WIMLDS-Khartoum)]('http://wimlds.org/about-the-khartoum-team/').
+  - Nov, 2020: Machine Learning Consultant at Central Bureau of Statistics (CBS) , Train employers of CBS on ML basics and how to us ML to improve business performance.
+  - Dec, 2019: Volunteer at Women in Machine Learning workshop(WiML) , NeurIPS 2019. 
