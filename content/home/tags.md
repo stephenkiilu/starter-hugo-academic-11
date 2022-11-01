@@ -6,7 +6,7 @@ headless: true
 weight: 70
 
 
-#design:
+design:
   columns: '2'
 ---
 Honors and Awards:
