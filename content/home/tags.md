@@ -5,11 +5,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
+title: 'Honors and Awards'
 
 design:
   columns: '2'
 ---
-Honors and Awards:
 
   - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
   - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indaba 2019. Nairobi, Kenya
