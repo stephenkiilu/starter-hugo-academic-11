@@ -5,17 +5,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: News
-# News to show in About widget
-content:
 
-  - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
-  - Serve as a program committee for the Deep Learning Indaba, Aug, 2022
-
-design:
-  columns: '2'
+#design:
+  #columns: '2'
 ---
-content:
+News:
 
   - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
   - Serve as a program committee for the Deep Learning Indaba, Aug, 2022
