@@ -3,7 +3,7 @@
 headless: false
 
 # Order that this section appears on the page.
-weight: 14
+weight: false
 
 
 #design:
