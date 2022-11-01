@@ -1,13 +1,13 @@
 ---
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 70
 
 
 #design:
-  #columns: '2'
+  columns: '2'
 ---
 Honors and Awards:
 
