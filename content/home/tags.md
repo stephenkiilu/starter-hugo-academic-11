@@ -9,7 +9,7 @@ weight: 70
 #design:
   #columns: '2'
 ---
-News:
+Honors and Awards:
 
   - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
   - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indaba 2019. Nairobi, Kenya
