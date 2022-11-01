@@ -15,3 +15,7 @@ content:
 design:
   columns: '2'
 ---
+content:
+
+  - Co-organize TrustAI Workshop 2022 at Deep Learning Indaba, Aug, 2022
+  - Serve as a program committee for the Deep Learning Indaba, Aug, 2022
