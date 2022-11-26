@@ -83,7 +83,7 @@ My research include deeplearning, representatin lerning, robustness, fairness an
 In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and traveling. 
 
 
-{{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link')
+%{{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link')
 
 News:
 
