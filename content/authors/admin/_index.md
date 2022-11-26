@@ -68,7 +68,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/12tgMxJuis2yCZAWr_Yt2OhMncqJnkehL/view
+    link: https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'aalaagib@aimsammi.org'
 
@@ -83,7 +83,7 @@ My research include deeplearning, representatin lerning, robustness, fairness an
 In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and traveling. 
 
 
-{{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/12tgMxJuis2yCZAWr_Yt2OhMncqJnkehL/view')
+{{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link')
 
 News:
 
