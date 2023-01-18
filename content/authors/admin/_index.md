@@ -80,7 +80,7 @@ email: 'aalaagib@aimsammi.org'
 highlight_name: true
 ---
 
-I am a research assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa/). I am conducting my research under the supervision of [Prof. Sebastian Vollmer](https://sebastian.vollmer.ms/) and [Prof. Seth Flaxman](https://sethrf.com/). Previouserly,I was a research intern at [Mila Quebec AI Institute]('https://mila.quebec/en/') and [Vector Institute]('https://vectorinstitute.ai/'). I hold two M.Sc. degrees in Mathematical Sciences and Machine Intelligence from AIMS Cameroon and [AIMS Rwanda]('https://aimsammi.org/') respectively (2017-2019) and a bachelor’s degree in Mathematics and Computer Science from the University of Khartoum, Sudan.
+I am a research assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa/). I am conducting my research under the supervision of [Prof. Sebastian Vollmer](https://sebastian.vollmer.ms/) and [Prof. Seth Flaxman](https://sethrf.com/). Previouserly,I was a research intern at [Mila Quebec AI Institute](https://mila.quebec/en/) and [Vector Institute](https://vectorinstitute.ai/). I hold two M.Sc. degrees in Mathematical Sciences and Machine Intelligence from AIMS Cameroon and [AIMS Rwanda](https://aimsammi.org/) respectively (2017-2019) and a bachelor’s degree in Mathematics and Computer Science from the University of Khartoum, Sudan.
 
 My research include deeplearning, representatin lerning, robustness, fairness and interpretability. I am also broadly interested in unsupervised representation learning for different modalities (text, vision) and finding good disentangled representations which are generally important for good performance on some downstream tasks.
 
@@ -91,9 +91,9 @@ In other news, I am very passionate about ML community, teaching, learning and r
 
 News:
 
-  - Mya, 2023: Co-organizer [Practical Machine Learning for Developing Countries Workshop]('https://pml4dc.github.io/iclr2023/') at ICLR 2023, Kigali, Rwanda. 
-  - Aug, 2022: Co-organizer [TrustAI Workshop]('https://trustaideepindaba.github.io/') at Deep Learning Indaba, Tunis..
-  - Aug, 2022: Serve as a program committee for the [Deep Learning Indaba]('https://deeplearningindaba.com/2022/indaba/organisers/').
-  - Jun, 2021: CO-Organizer of Women in Machine Learning and Data Science Khartoum Chapter[(WIMLDS-Khartoum)]('http://wimlds.org/about-the-khartoum-team/').
+  - Mya, 2023: Co-organizer [Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2023, Kigali, Rwanda. 
+  - Aug, 2022: Co-organizer [TrustAI Workshop](https://trustaideepindaba.github.io/) at Deep Learning Indaba, Tunis..
+  - Aug, 2022: Serve as a program committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/).
+  - Jun, 2021: CO-Organizer of Women in Machine Learning and Data Science Khartoum Chapter[(WIMLDS-Khartoum)](http://wimlds.org/about-the-khartoum-team/).
   - Nov, 2020: Machine Learning Consultant at Central Bureau of Statistics (CBS) , Train employers of CBS on ML basics and how to us ML to improve business performance.
   - Dec, 2019: Volunteer at Women in Machine Learning workshop(WiML) , NeurIPS 2019. 
