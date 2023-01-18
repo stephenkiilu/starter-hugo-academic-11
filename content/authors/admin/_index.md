@@ -14,7 +14,7 @@ role: Research Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: DFKI
-    url: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
+    link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include trustworthy machine learning, epresentatin lerning, NLP.
