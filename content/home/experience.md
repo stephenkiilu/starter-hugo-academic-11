@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Research Assistant:
+  - title: Research Assistant
     company: DFKI
     company_url: 'https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa%27'
     company_logo: org-gc
     location: Germany
     date_start: '2022-11-15'
-    date_end: pres
+    date_end: 'pres'
     description: |2-
         Responsibilities include:
         
