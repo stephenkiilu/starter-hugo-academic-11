@@ -93,7 +93,7 @@ News:
 
   - May, 2023: Co-organizer [Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2023, Kigali, Rwanda. 
   - Aug, 2022: Co-organizer [TrustAI Workshop](https://trustaideepindaba.github.io/) at Deep Learning Indaba, Tunis..
-  - Aug, 2022: Serve as a program committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
+  - Aug, 2022: Serve as a programme committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
   - Jun, 2021: CO-Organizer of Women in Machine Learning and Data Science Khartoum Chapter[(WIMLDS-Khartoum)](http://wimlds.org/about-the-khartoum-team/), Sudan.
 <!--   - Nov, 2020: Machine Learning Consultant at Central Bureau of Statistics (CBS) , Train employers of CBS on ML basics and how to us ML to improve business performance. -->
 <!--   - Dec, 2019: Volunteer at Women in Machine Learning workshop(WiML) , NeurIPS 2019.  -->
